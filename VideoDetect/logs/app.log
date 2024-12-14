@@ -1,0 +1,6 @@
+2024-12-14 18:15:14.096 | INFO     | __main__:main:10 - Log baslatildi
+2024-12-14 18:15:14.096 | INFO     | app.config:loadConfig:10 - Config.toml okundu
+2024-12-14 18:15:14.096 | INFO     | __main__:main:14 - Goruntu isleme baslatildi
+2024-12-14 18:15:14.281 | INFO     | app.streamer:__init__:11 - Kamera acildi
+2024-12-14 18:15:22.377 | INFO     | __main__:main:28 - Goruntu isleme bitti
+2024-12-14 18:15:22.550 | INFO     | app.streamer:release:25 - Kamera kapatildi

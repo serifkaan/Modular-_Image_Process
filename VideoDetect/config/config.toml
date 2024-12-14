@@ -1,0 +1,5 @@
+[colors]
+blue = { lower = [100, 150, 50], upper = [140, 255, 255] }
+green = { lower = [40, 150, 50], upper = [80, 255, 255] }
+red = { lower = [0, 130, 90], upper = [7, 250, 255] }
+yellow= {lower=[20,100,100],upper=[30,255,255] }
